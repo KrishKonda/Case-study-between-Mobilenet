@@ -1,0 +1,31 @@
+.text_image_result{
+    font-size:30px;
+    margin:10px;
+    padding:5px;
+    text-align:center;
+}
+.mini_result{
+    background-color: darkorange;
+    color:darkturquoise;
+    font-size:25px;
+    border-radius:20px;
+    margin:5px;
+    padding:5px;
+    width:50%;
+}
+h4{
+font-size:20px;
+}
+h5{
+    color:lime;
+    font-size:30px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:palegreen;
+    bottom:0;
+    width:100%;
+    background-color:tomato;
+    line-height:3;
+    text-align:center;
+  }
